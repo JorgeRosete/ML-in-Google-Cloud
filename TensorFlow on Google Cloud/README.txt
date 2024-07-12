@@ -1,1 +1,0 @@
-This course explains how to design and create a TensorFlow 2.x input data pipeline, how to develop Advanced Analytics (AA) models with TensorFlow 2.x and Keras, how to improve the accuracy of AA models, how to write AA models for scaled use, and how to write specialized AA models.
